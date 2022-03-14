@@ -413,7 +413,7 @@ article pre{
 .heading2+pre{
     position: absolute;
     top: 1550px;
-    right: 11.5%;
+    right: 28.8%;
     width: fit-content;
 }
 
@@ -442,7 +442,7 @@ article pre{
 .land2{
     position: absolute;
     top: 1810px;
-    right: 35.5%;
+    right: 28.8%;
     letter-spacing: 0.2ch;
     width: fit-content;
 }
@@ -599,8 +599,8 @@ font-weight: 900;
 }
 .holder{
     position: relative;
-    margin: 100px;
-    left:auto;
+    margin: 80px;
+    left:35%;
     right:auto;
     display:flex;
     flex-direction: row;
