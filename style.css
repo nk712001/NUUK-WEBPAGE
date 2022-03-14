@@ -599,7 +599,7 @@ font-weight: 900;
 }
 .holder{
     position: relative;
-    margin: 2%;
+    margin: 130px;
     left:auto;
     right:auto;
     display:flex;
