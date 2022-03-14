@@ -599,7 +599,9 @@ font-weight: 900;
 }
 .holder{
     position: relative;
-    margin: 2% 8%;
+    margin: 2%;
+    left:auto;
+    right:auto;
     display:flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -734,9 +736,9 @@ color: #9e9ea3;
 }
 .blog{
     position: absolute;
-    top:5690px;
+    top:5650px;
     right:auto;
-    left: 10%;
+    left: auto;
 }
 .blog .heading6{
 z-index: 1;
