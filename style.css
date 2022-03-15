@@ -600,7 +600,7 @@ font-weight: 900;
 .holder{
     position: relative;
     margin: 80px;
-    left:35%;
+    left:15%;
     right:auto;
     display:flex;
     flex-direction: row;
@@ -611,7 +611,7 @@ font-weight: 900;
      position: relative;
         margin: 10px;
         transition: 0.3s;
-        width:285px;
+        width:300px;
         height: 398px;
 }
 .team .landside{
@@ -738,7 +738,7 @@ color: #9e9ea3;
     position: absolute;
     top:5650px;
     right:auto;
-    left: auto;
+    left: 15%;
 }
 .blog .heading6{
 z-index: 1;
